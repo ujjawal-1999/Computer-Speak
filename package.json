@@ -12,7 +12,7 @@
   "author": "Ujjawal Jain",
   "license": "MIT",
   "dependencies": {
-    "electron": "^9.0.0",
+    "electron": "^9.3.0",
     "electron-packager": "^14.2.1"
   }
 }
